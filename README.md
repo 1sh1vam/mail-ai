@@ -2,7 +2,6 @@
 
 An AI-powered email client where users control the application through natural language commands. Built with React, NestJS, and Gmail API with real-time sync via Google Pub/Sub.
 
-[DEMO](https://mail-ai-t5z1.vercel.app/)
 
 ## Features
 
