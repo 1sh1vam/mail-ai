@@ -2,6 +2,8 @@
 
 An AI-powered email client where users control the application through natural language commands. Built with React, NestJS, and Gmail API with real-time sync via Google Pub/Sub.
 
+[DEMO](https://drive.google.com/file/d/190fxYvfUhTzrM8NAO9GvGcrxvUH3j2pr/view?usp=drive_link)
+
 
 ## Features
 
